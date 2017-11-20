@@ -1,0 +1,2 @@
+/home/visteon/google_mock_fun/googleTestTutorial/4-cplusplus-mocking-using-google-mock-advanced-m4-exercise-files/MovieManager/build/CMakeFiles/runReal.dir
+/home/visteon/google_mock_fun/googleTestTutorial/4-cplusplus-mocking-using-google-mock-advanced-m4-exercise-files/MovieManager/build/CMakeFiles/runtest.dir
